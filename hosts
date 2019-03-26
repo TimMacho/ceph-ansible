@@ -12,12 +12,6 @@ mimicnode3 monitor_address=192.168.111.103
 mimicnode1
 mimicnode2
 mimicnode3
-#mimicnode1 osd_auto_discovery='true' devices="['/dev/sdb']"
-#mimicnode2 osd_auto_discovery='true' devices="['/dev/sdb']"
-#mimicnode3 osd_auto_discovery='true' devices="['/dev/sdb']"
-#mimicnode1 osd_scenario=lvm  osd_auto_discovery='true'
-#mimicnode2 osd_scenario=lvm  osd_auto_discovery='true'
-#mimicnode3 osd_scenario=lvm  osd_auto_discovery='true'
 
 [mgrs]
 mimicnode1
